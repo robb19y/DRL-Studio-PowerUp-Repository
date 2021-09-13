@@ -8,5 +8,5 @@
 {"name":"Background Lib","moduleName":"background","version":"1.0.2"},
 {"name":"Web View","moduleName":"webview","version":"1.0.1"},
 {"name":"Keyence","moduleName":"keyence","version":"1.0.0"},
-{"name":"SensoPart","moduleName":"sensopart","version":"1.0.0"},
+{"name":"SensoPart","moduleName":"sensopart","version":"1.0.1"},
 {"name":"OPC UA","moduleName":"opcua","version":"1.0.0"}]
