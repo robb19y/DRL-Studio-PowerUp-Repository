@@ -5,7 +5,7 @@
   {"name":"Remote API","moduleName":"remote","version":"1.1.0"},
    {"name":"Solomon","moduleName":"solomon","version":"1.0.2"},
  {"name":"Utils Lib","moduleName":"utils","version":"1.2.3"},
-{"name":"Background Lib","moduleName":"background","version":"1.1.1"},
+{"name":"Background Lib","moduleName":"background","version":"1.1.2"},
 {"name":"Web View","moduleName":"webview","version":"1.0.2"},
 {"name":"Keyence","moduleName":"keyence","version":"1.0.0"},
 {"name":"SensoPart","moduleName":"sensopart","version":"1.0.1"},
