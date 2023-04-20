@@ -1,6 +1,6 @@
 [{"name":"CheckApp","moduleName":"checkapp","version":"1.7.4"},
  {"name":"EasyPallet","moduleName":"easypallet","version":"1.3.1"},
-  {"name":"Motion Lib","moduleName":"motion","version":"1.3.0"},
+  {"name":"Motion Lib","moduleName":"motion","version":"1.3.2"},
  {"name":"OnRobot","moduleName":"onrobot","version":"1.3.5"},
   {"name":"Remote API","moduleName":"remote","version":"1.1.2"},
    {"name":"Solomon","moduleName":"solomon","version":"1.0.2"},
