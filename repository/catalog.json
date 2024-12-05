@@ -11,4 +11,5 @@
 {"name":"SensoPart","moduleName":"sensopart","version":"1.0.1"},
 {"name":"OPC UA","moduleName":"opcua","version":"1.0.2"},
 {"name":"Prensilia","moduleName":"prensilia","version":"1.2.0"},
-{"name":"Recordbot","moduleName":"recordbot","version":"1.1.0"}]
+{"name":"Recordbot","moduleName":"recordbot","version":"1.1.0"},
+{"name":"Aim Dispensing","moduleName":"aim","version":"1.1.0"}]
